@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vvolam
+- 👋 Hi, I’m @Vasundhara Volam
 - 👀 I’m interested in Networking
 - 🌱 I’m currently learning PYTHON, SONIC.  
 - 💞️ I’m looking to collaborate on SONIC, LINUX Networking
