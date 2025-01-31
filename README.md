@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vasundhara Volam
-- 👀 I’m interested in Networking
+- 👀 I’m interested in Networking technologies.
 - 🌱 I’m currently learning PYTHON, SONIC.  
 - 💞️ I’m looking to collaborate on SONIC, LINUX Networking
 - 📫 How to reach me ...
